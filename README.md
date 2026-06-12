@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/30yDbd5"><img title="Made By Mr. Admin" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made By Mr. Admin" src="https://img.shields.io/badge/METHOD-CALL-SPOOFINGgreen.svg"></a>
+<a href="https://bit.ly/30yDbd5"><img title="Call Spoofing" src="https://img.shields.io/badge/METHOD-CALL-SPOOFINGgreen.svg"></a>
 <a href="https://bit.ly/30yDbd5"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://ibb.co/8MnNJFh"><img src="https://i.ibb.co/D4PzN3q/photo-2023-03-13-02-45-03.jpg" alt="photo-2023-03-13-02-45-03" border="0"></a>
+<a href="https://ibb.co/rGXWJc8R"><img src="https://i.ibb.co/1f4Sxdyt/CALLSPOOF.jpg" alt="CALLSPOOF" border="0"></a>
 </p>
 <p align="center">
 <a href="https://github.com/WHITE-HAT786"><img title="Github" src="https://img.shields.io/badge/WHITE-HAT786-brightgreen?style=for-the-badge&logo=github"></a>
