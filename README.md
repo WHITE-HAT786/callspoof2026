@@ -22,7 +22,7 @@
 ## REQUIREMENTS :
 For doing call spoofing you need to have a route which is about $100 per country and debian server. Similarly for email spoofing you need to have smpt server and other things which cost more and time.
 
-## HOW TO DO CALL AND EMAIL SPOOFING IN AFFORTABLE AMOUNT :
+## HOW TO DO CALL IN AFFORTABLE AMOUNT :
 
 I Know you guys are not that much stupid who will pay $200+. I have the best offer for you, the amount you need is $45 only for spoofing materials.
 
@@ -52,7 +52,7 @@ I Know you guys are not that much stupid who will pay $200+. I have the best off
 ## CONNECT WITH US :
 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/white_hat_278?igshid=175v9uifresgr)
+
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/mr_admin404)
 
 ## WARNING : 
