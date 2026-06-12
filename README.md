@@ -34,7 +34,7 @@ I Know you guys are not that much stupid who will pay $200+. I have the best off
 
 2. THEN DOWNLOAD PORTSIP UC APP FROM GOOGLE PLAY STORE - https://play.google.com/store/apps/details?id=com.portgo
 
-3. NOW THIS IS THE MAIN THING. AFTER CREATING ACCOUNT YOU DON'T HAVE BALANCE IN YOUR ACCOUNT FOR CALLING. YOU NEED TO GO TO YOUR TELEGRAM AND JOIN THESE CHANNEL - https://t.me/white_hat278.
+3. NOW THIS IS THE MAIN THING. AFTER CREATING ACCOUNT YOU DON'T HAVE BALANCE IN YOUR ACCOUNT FOR CALLING. YOU NEED TO GO TO YOUR TELEGRAM AND JOIN THESE CHANNEL - https://t.me/mr_admin404.
 
 4. NOW MESSAGE THE OWNER OF CHANNEL TO ADD THE BALANCE IN YOUR ACCOUNT - @white_hat_278. HE WILL ASK YOU FOR $45, FOR BOTH CALL AND EMAIL SPOOFING. PAY HIM, THEN GIVE YOUR USERNAME TO HIM AND HE WILL ADD THE BALANCE.
 
@@ -53,7 +53,7 @@ I Know you guys are not that much stupid who will pay $200+. I have the best off
 
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/white_hat_278?igshid=175v9uifresgr)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/white_hat278)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/mr_admin404)
 
 ## WARNING : 
 ***This method is only for educational purpose. If you use this method for scaming others we are not responsible for it..***
