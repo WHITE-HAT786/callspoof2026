@@ -2,7 +2,7 @@
 <a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/METHOD-CALL_&_EMAILSPOOFING-green.svg"></a>
+<a href="https://bit.ly/30yDbd5"><img title="Made By Mr. Admin" src="https://img.shields.io/badge/METHOD-CALL_&_EMAILSPOOFING-green.svg"></a>
 <a href="https://bit.ly/30yDbd5"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
@@ -19,7 +19,7 @@
 
 
 ## REQUIREMENTS :
-For doing call spoofing you need to have a route which is about $100 per country and debian server. Similarly for email spoofing you need to have smpt server and other things which cost more and time.
+For doing call spoofing you need to have a route which is about $100 per country and debian server. 
 
 ## HOW TO DO CALL IN AFFORTABLE AMOUNT :
 
@@ -33,13 +33,12 @@ I Know you guys are not that much stupid who will pay $200+. I have the best off
 
 2. THEN DOWNLOAD PORTSIP UC APP FROM GOOGLE PLAY STORE - https://play.google.com/store/apps/details?id=com.portgo
 
-3. NOW THIS IS THE MAIN THING. AFTER CREATING ACCOUNT YOU DON'T HAVE BALANCE IN YOUR ACCOUNT FOR CALLING. YOU NEED TO GO TO YOUR TELEGRAM AND JOIN THESE CHANNEL - https://t.me/mr_admin404.
+3. NOW THIS IS THE MAIN THING. AFTER CREATING ACCOUNT YOU DON'T HAVE BALANCE IN YOUR ACCOUNT FOR CALLING. YOU NEED TO GO TO YOUR TELEGRAM AND JOIN THESE CHANNEL - https://t.me/AnyCallAgencyNetwork
 
-4. NOW MESSAGE THE OWNER OF CHANNEL TO ADD THE BALANCE IN YOUR ACCOUNT - @white_hat_278. HE WILL ASK YOU FOR $45, FOR BOTH CALL AND EMAIL SPOOFING. PAY HIM, THEN GIVE YOUR USERNAME TO HIM AND HE WILL ADD THE BALANCE.
+4. NOW MESSAGE THE OWNER OF CHANNEL TO ADD THE BALANCE IN YOUR ACCOUNT - @mr_admin404. HE WILL ASK YOU FOR $50, FOR AND. PAY HIM, THEN GIVE YOUR USERNAME TO HIM AND HE WILL ADD THE BALANCE.
 
-   *YOU CAN ALSO ASK FOR DEMO.(THE GREAT THING IS IT IS ESPECIALLY FOR INDIA)*
 
-5. NOW AFTER BUYING ALL MATERIAL OF SPOOFING GO TO PORTSIP UC APP AND ENTER YOUR USERNAME, PASSWORD DOMAIN. NOW CONGRATULATIONS YOU CAN SPOOF ANYONE EMAIL AND CALL.
+5. NOW AFTER BUYING ALL MATERIAL OF SPOOFING GO TO PORTSIP UC APP AND ENTER YOUR USERNAME, PASSWORD DOMAIN. NOW CONGRATULATIONS YOU CAN SPOOF CALL.
 
 
 ## WATCH VIDEO :
